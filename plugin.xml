@@ -34,7 +34,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/IonicKeyboard.java" target-dir="src/io/ionic/keyboard" />
+        <source-file src="src/android/Keyboard.java" target-dir="src/io/ionic/keyboard" />
     </platform>
 
 </plugin>
